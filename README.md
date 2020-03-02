@@ -31,4 +31,6 @@ Steps before execution:
 3. Make sure output folders are made in the root directory.
 
 Execution:
-Simply run the jython files with the command "jython filename.py"
+1. Simply run the jython files with the command "jython filename.py"
+2. Based on the chosen file, output 'txt' files will be generated in one of the output folders.
+3. To view these files, rename them to '.csv' and use whichever tool you find suitable to view the csv files. I personally used Excel to view and create the charts from the files.
